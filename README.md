@@ -26,7 +26,7 @@
 
 <br><br>
 
-<div align = "center>
+<div align = "center">
   ![](https://leetcard.jacoblin.cool/ebadrehmann?ext=activity)
 </div>
   
