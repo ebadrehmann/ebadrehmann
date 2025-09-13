@@ -30,7 +30,7 @@
 
 <p align="left">Leetcode is a religion tbh.</p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ebadrehmann)
+![](https://leetcard.jacoblin.cool/jacoblincool?ext=heatmap)
 ###
 
 <img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
