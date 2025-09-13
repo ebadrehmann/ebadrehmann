@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
 </div>
 
-<br><br><br>
+<br><br>
 
 <p align="left">Leetcode is a religion tbh.</p>
 
