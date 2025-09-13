@@ -1,5 +1,3 @@
-<p align="left">stuff i've worked with :) ↓</p>
-
 ###
 
 <div align="center">
