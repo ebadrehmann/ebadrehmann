@@ -1,3 +1,5 @@
+<p align="left">stuff i've worked with :) ↓</p>
+
 ###
 
 <div align="left">
@@ -26,10 +28,14 @@
 
 ###
 
-<img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/snake.svg" alt="Snake animation" />
+<img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
