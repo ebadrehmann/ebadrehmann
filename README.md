@@ -26,8 +26,11 @@
 
 <br><br>
 
+<div align = "center>
+  ![](https://leetcard.jacoblin.cool/ebadrehmann?ext=activity)
+</div>
+  
 
-![](https://leetcard.jacoblin.cool/ebadrehmann?ext=activity)
 ###
 
 <img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
