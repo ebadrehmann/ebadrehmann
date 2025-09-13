@@ -28,7 +28,6 @@
 
 <br><br>
 
-<p align="left">Leetcode is a religion tbh.</p>
 
 ![](https://leetcard.jacoblin.cool/ebadrehmann?ext=activity)
 ###
