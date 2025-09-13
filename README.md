@@ -26,14 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ebadrehmann/ebadrehmann/output/pacman-contribution-graph.svg">
-</picture>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 ###
 
 <img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
